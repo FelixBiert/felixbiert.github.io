@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "FelixBiert/felixbiertuempfel.github.io",
+    "data-repo": "FelixBiert/felixbiert.github.io",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
